@@ -19,10 +19,7 @@ sdmc:/switch/totalpartykill_nx
 └── assets
 ```
  
-
-```
-
- Launch via title override (hold R while starting an installed game).
+Launch via title override (hold R while starting an installed game).
  
 Optionally drop a `cursor.png` (up to 64×64, transparency respected) in the same folder to replace the on-screen cursor with your own.
  
